@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Hooman Soleymani — AI and Intelligent Systems</title>
+<desc id="desc">Minimal dark scientific header with a geometric network motif.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b14"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="blue"><stop stop-color="#93c5fd"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#94a3b8" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/><rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+<g fill="none" stroke="#60a5fa" stroke-opacity=".32" stroke-width="1.4"><path d="M800 42L910 92L1015 42L1110 112L1040 205L920 242L820 180L910 92L920 242L1015 42L1040 205L1110 112"/><path d="M800 42L820 180L920 242M910 92L1040 205M1015 42L920 242"/></g>
+<g fill="#93c5fd"><circle cx="800" cy="42" r="4"/><circle cx="910" cy="92" r="5"/><circle cx="1015" cy="42" r="4"/><circle cx="1110" cy="112" r="4"/><circle cx="1040" cy="205" r="5"/><circle cx="920" cy="242" r="4"/><circle cx="820" cy="180" r="4"/></g>
+<rect x="58" y="50" width="4" height="200" rx="2" fill="url(#blue)"/>
+<text x="88" y="105" fill="#93c5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">AI RESEARCH / INTELLIGENT SYSTEMS</text>
+<text x="84" y="165" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="700">Hooman Soleymani</text>
+<text x="88" y="205" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Learning-based systems · Reinforcement Learning · Robotics</text>
+<text x="88" y="246" fill="#64748b" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">RESEARCH + ENGINEERING + REPRODUCIBILITY</text>
+<path d="M760 265H1138" stroke="#60a5fa" stroke-opacity=".45"/><circle cx="1145" cy="265" r="3" fill="#60a5fa"/>
+</svg>
